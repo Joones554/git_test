@@ -3,3 +3,5 @@ This is me trying to create a few lines of text
 I want to learn to make websites
 This is another change
 Another one
+Checking the gitbug function in VSCODE
+1
